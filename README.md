@@ -29,3 +29,8 @@
 ## "Certificate of Completion"
 
 > Completed a course of "Python Fundamentals for Beginners" provided by "Great Learning"
+
+
+## "Certificate of Completion"
+
+> Completed a course of "Generative Ai" provided by "Linkedin Learning"

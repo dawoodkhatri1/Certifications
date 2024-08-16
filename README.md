@@ -34,3 +34,7 @@
 ## "Certificate of Completion"
 
 > Completed a course of "Generative Ai" provided by "Linkedin Learning"
+
+## "Certificate of Completion"
+
+> Completed a webinar of "Artificial Intelligence and Generative AI: Empowering a Deeper Conversation" provided by "edWeb.net"

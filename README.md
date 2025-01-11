@@ -1,5 +1,8 @@
 # My_Certificates_And_Achievements
 
+## "Certificate of Participation 2"
+
+> "Integrating AI with IOT" conducted by "Arooba Iraqui"
 
 ## "Certificate of Participation"
 

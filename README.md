@@ -1,5 +1,9 @@
 # My_Certificates_And_Achievements
 
+## "Certificate of Participation 3"
+
+> "Elevate Your Professional Persona" conducted by "Abdul Qadeer"
+
 ## "Certificate of Participation 2"
 
 > "Integrating AI with IOT" conducted by "Arooba Iraqui"
